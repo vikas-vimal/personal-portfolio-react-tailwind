@@ -20,7 +20,7 @@ function HeroSection() {
             className="rounded-full w-72 h-72 object-cover"
           />
         </div>
-        <h1 className="text-7xl font-extrabold uppercase">Banana Sheikh</h1>
+        <h1 className="text-7xl font-extrabold uppercase">Mango Sheikh</h1>
         <h3 className="text-4xl font-medium text-blue-600 mt-3">
           Software Engineer
         </h3>
